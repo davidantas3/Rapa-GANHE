@@ -8,5 +8,3 @@ App para calcular lucro líquido por corrida usando React (Next.js) + Tailwind C
 npm install
 npm run dev
 ```
-
-Abra em: http://localhost:3000
